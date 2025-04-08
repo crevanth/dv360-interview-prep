@@ -911,3 +911,54 @@ This document contains a comprehensive list of questions and answers related to 
         * **Third-Party Verification:** Using tools like IAS, DoubleVerify, Moat that provide an extra layer of protection by checking inventory before bidding (pre-bid) or reporting where ads appeared after serving (post-bid).
 
 ---
+## XVI. Advanced Measurement (Brand Lift & Search Lift)
+
+### **112. What is a Brand Lift Study (BLS)?**
+
+* **Answer:** Think of a Brand Lift Study (BLS) as a way to check if your branding ads are actually changing how people think about your brand. It goes beyond clicks/conversions by surveying users who saw your ads (the 'exposed' group) and comparing their answers to those who didn't (the 'control' group) to see the difference your campaign made on perception.
+
+### **113. What key metrics does a Brand Lift Study typically measure?**
+
+* **Answer:** A BLS zeroes in on the 'lift' – the positive bump your ads create in key brand feelings and intentions, like:
+    * Ad Recall (do they remember seeing it?)
+    * Brand Awareness (do they know your brand exists?)
+    * Consideration (would they think about buying from you?)
+    * Favorability (do they like your brand more?)
+    * Purchase Intent (are they more likely to buy?)
+
+### **114. What is the primary purpose of running a Brand Lift Study?**
+
+* **Answer:** Why run a BLS? Its main job is proving that your awareness campaigns (especially video/display) are actually working on those harder-to-measure brand goals. It shows the value beyond direct clicks or sales, helping justify the budget spent on building your brand image.
+
+### **115. Can you briefly explain the methodology behind a typical Brand Lift Study (e.g., control vs. exposed groups, surveys)?**
+
+* **Answer:** So, how does it actually work? Pretty logically:
+    1.  **Split the Audience:** As your campaign runs, people are randomly put into two buckets: one sees your ads ('exposed'), the other doesn't ('control').
+    2.  **Ask Questions:** Later, both groups get surveys asking about your brand (Do they remember the ad? Would they consider buying?). These surveys might pop up on YouTube or other places.
+    3.  **Compare Answers:** You compare the survey results from the 'exposed' group to the 'control' group.
+    4.  **Find the Lift:** That difference in positive answers? That's the 'lift' – the measurable impact your ads had on brand perception.
+
+### **116. How is a Brand Lift Study typically initiated or set up in relation to a DV360 campaign?**
+
+* **Answer:** Getting a BLS running usually means:
+    * Talking to your Google team (it's not always just a button click in DV360, often requires their assistance).
+    * Clearly linking the study to the specific DV360 campaigns or IOs you want to measure.
+    * Deciding exactly which brand questions (metrics) you want to ask in the surveys.
+    * Making sure your campaign is big enough (budget/reach) to actually get reliable results from the study.
+
+### **117. Are there minimum requirements (like budget or impression volume) typically needed to run a meaningful Brand Lift Study?**
+
+* **Answer:** Definitely. You usually need a solid minimum budget, enough impressions delivered, and a decent campaign flight duration. Why? To get enough people in both the 'exposed' and 'control' groups for the results to be statistically meaningful (meaning, the results aren't just random luck). The exact numbers vary by market and setup, but expect to need a fairly significant campaign scale to qualify.
+
+### **118. What is a Search Lift Study (SLS)?**
+
+* **Answer:** A Search Lift Study (SLS) tries to answer this question: Did seeing my display, video, or audio ad make people more likely to actually search for my brand or product on Google later on?
+
+### **119. What does a Search Lift Study aim to measure?**
+
+* **Answer:** Its goal is to measure the *increase* (the 'lift') in people searching for your specific keywords (like your brand name or key product terms) *after* seeing your non-search ads, compared to people who didn't see those ads.
+
+### **120. Why would an advertiser conduct a Search Lift Study?**
+
+* **Answer:** Why bother with SLS? It's solid proof that your display, video, or audio ads are actually influencing people further down the marketing funnel – driving them to actively search for you later. It helps connect the dots between your upper-funnel awareness efforts and lower-funnel actions like search.
+---
